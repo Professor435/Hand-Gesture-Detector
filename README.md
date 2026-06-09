@@ -12,4 +12,4 @@ I developed a real-time 3D particle visualization system that responds to hand g
 The system includes multiple dynamic particle templates like ❤️ Heart, 🌸 Flower, 🪐 Saturn, 🎆 Firework, and 🌌 Galaxy with customizable color themes and smooth animations.
 
 
-For more contact us (professorshami435@gmail.com)
+contact us for amazing projects and for FYP's (professorshami435@gmail.com)
