@@ -6,7 +6,7 @@ I developed a real-time 3D particle visualization system that responds to hand g
 🖐️ Users can control particles using hand movements:
 • Move hand to control particle motion
 • Pinch to expand or contract shapes
-• Point to change color themes
+• Point to change color themes 
 • Open palm to trigger explosion effects
 
 The system includes multiple dynamic particle templates like ❤️ Heart, 🌸 Flower, 🪐 Saturn, 🎆 Firework, and 🌌 Galaxy with customizable color themes and smooth animations.
